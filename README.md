@@ -13,7 +13,7 @@ A view of the main menu.
 ![alt-text](https://github.com/TopiPurtola/spaceship-game/blob/main/MainMenu.png)
 
 ### How To Play
-A view of the how to play section.
+A view of the how to play section. The goal of the game is to destroy as many enemy ships as possible in one minute.
 ![alt-text](https://github.com/TopiPurtola/spaceship-game/blob/main/HowToPlay.png)
 
 ### Game
