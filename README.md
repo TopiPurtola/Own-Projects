@@ -26,4 +26,4 @@ A view of the game over screen.
 
 ### Recent Scores
 A view of the recent scores. Shows three of the most recent scores.
-![alt-text]https://github.com/TopiPurtola/spaceship-game/blob/main/RecentScores.png
+![alt-text](https://github.com/TopiPurtola/spaceship-game/blob/main/RecentScores.png)
