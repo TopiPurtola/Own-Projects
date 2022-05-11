@@ -2,8 +2,7 @@
 A star wars inspired spaceship game. Instructions of the game are written in finnish.
 
 ### Source codes
-⋅⋅* [Enemy.java]
-(https://github.com/TopiPurtola/spaceship-game/blob/main/Enemy.java)
+* [Enemy.java](https://github.com/TopiPurtola/spaceship-game/blob/main/Enemy.java)
 * [Player.java](https://github.com/TopiPurtola/spaceship-game/blob/main/Player.java)
 * [Pointsystem.java](https://github.com/TopiPurtola/spaceship-game/blob/main/Pointsystem.java)
 * [starswar.java](https://github.com/TopiPurtola/spaceship-game/blob/main/starswar.java)
